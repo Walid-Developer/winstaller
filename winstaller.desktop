@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Winstaller
+Exec=/usr/local/bin/winstaller.sh %f
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+MimeType=application/x-deb;application/x-rpm;application/x-compressed-tar;application/x-tar;application/x-bzip;application/x-bzip-compressed-tar;application/x-xz;application/gzip;application/x-7z-compressed;application/zip;application/x-shellscript;application/vnd.flatpak;application/vnd.snap;
